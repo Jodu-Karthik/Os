@@ -1,0 +1,18 @@
+1 9 3
+2 3 2
+3 2 1
+4 4 7
+5 3 4
+6 2 6
+
+
+id	at	bt	ct	tat	wt	
+3	2	1	3	1	0
+6	2	6	9	7	1
+2	3	2	11	8	6
+5	3	4	15	12	8
+4	4	7	22	18	11
+1	9	3	25	16	13
+
+Average TurnAroundTime: 6
+Average WaitingTime: 10
